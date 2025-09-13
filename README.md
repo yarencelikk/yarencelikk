@@ -1,72 +1,70 @@
 ### Merhaba! Ben Emine Yaren Çelik
 
-Bartın Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim. Yapay zeka, gerçek zamanlı web uygulamaları ve .NET MAUI ile mobil geliştirme alanlarında projeler üretiyorum. Yazılım geliştirmede sadelik, sürdürülebilirlik ve kapsamlı dokümantasyon benim için temel ilkelerdir. Bu profil, geliştirdiğim projeleri, teknolojik yetkinliklerimi ve iletişim kanallarımı bir araya getirmektedir.
+Bartın Üniversitesi Bilgisayar Mühendisliği (2022–2026) son sınıf öğrencisiyim. Yapay zeka, gerçek zamanlı web uygulamaları ve .NET MAUI ile mobil geliştirme alanlarında projeler üretiyorum. Üretimde sadelik, sürdürülebilirlik ve dokümantasyon benim için kritik. Burada; projelerim, kullandığım teknolojiler ve bana ulaşabileceğiniz kanalları bir araya getirdim.
 
 ---
 
-### 🚀 Uzmanlık Alanları & Teknolojiler
-
-* **Programlama Dilleri:**
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-    ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-* **Web Framework'leri & Kütüphaneleri:**
-    ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-    ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-    ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-    ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-    ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-* **Veritabanları:**
-    ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-    ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-    ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-* **Bulut & API:**
-    ![Google Gemini API](https://img.shields.io/badge/Google_Gemini-1F1F1F?style=for-the-badge&logo=google-gemini&logoColor=white)
-
-* **Mobil:**
-    ![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+### 🚀 Uzmanlık Alanlarım
+* **Yapay Zeka (AI):** AI destekli öğrenme platformları, metin işleme (NLP), RAG ve çok-ajan mimarileri üzerine çalışmalar.
+* **Gerçek Zamanlı Sistemler:** WebSocket/Socket.IO, FastAPI, Node.js ve Firebase kullanarak gerçek zamanlı mesajlaşma ve tam yığın uygulamalar geliştirme.
+* **Yazılım Geliştirme Yaşam Döngüsü:** Akademik ve profesyonel projelerde gereksinim analizi, mimari tasarım, test ve dokümantasyon süreçlerini yönetme.
 
 ---
 
-### 📌 Öne Çıkan Projeler
-
-* **Synapse – Kişiselleştirilmiş Öğrenme Ekosistemi:**
-    PDF içeriklerini yapay zekâ destekli interaktif öğrenme materyallerine dönüştüren platform.
-    * **Rolüm:** Frontend geliştirme (React – Vite, TypeScript).
-    * **Teknolojiler:** LangChain, Google Gemini API, FastAPI, ChromaDB.
-
-* **Gerçek Zamanlı Mesajlaşma Uygulaması:**
-    Anlık mesajlaşma ve kullanıcı çevrim içi durum takibi özellikli, duyarlı web uygulaması.
-    * **Teknolojiler:** React, Node.js, Express, Socket.IO, MongoDB.
-
-* **Çok Platformlu Yardımcı Uygulama (.NET MAUI):**
-    Döviz kurları, haber ve hava durumu gibi bilgileri bir araya getiren, API entegrasyonlu mobil/masaüstü uygulama.
-
-* **Türkçe Haber Sınıflandırma (NLP):**
-    TF-IDF ve BoW teknikleriyle geliştirilmiş, çok sınıflı haber sınıflandırma modeli.
+### 🧰 Teknolojiler ve Araçlar
+* **Programlama Dilleri:** Java, JavaScript, C#, Python
+* **Veritabanı:** MySQL, Firebase, MongoDB, SQLite, ChromaDB
+* **Araçlar ve Teknolojiler:** VS Code, IntelliJ IDEA, MySQL Workbench, Jupyter Notebook, Eclipse, Git, GitHub
+* **Framework & Kütüphaneler:** FastAPI, React, Node.js, Express, Vite, Socket.IO, .NET MAUI
+* **Kişisel Beceriler:** Analitik düşünme, zaman yönetimi, detaylara dikkat, problem çözme
 
 ---
 
 ### 🎓 Sertifikalar
+* **İşletim Sistemlerine Giriş** – BTK Akademi (Yeterlilik Kimliği: BozfGobomV)
+* **Yapay Zeka Zirvesi 2024** – BTK Akademi (Yeterlilik Kimliği: L2extn9xyE9)
+* **Yapay Zekaya Giriş** – BTK Akademi (Yeterlilik Kimliği: EoPfb0zAOV)
+* **Otomotiv Yaz Kampı** – OSD (Yeterlilik Kimliği: OSD2D0EB6AF)
+* **Büyük Veriye Giriş** – BTK Akademi (Yeterlilik Kimliği: OlK1hw7NMpa)
+* **Başlangıç Seviye Java ile Backend Web Development Patikası** – Patika.dev (Yeterlilik Kimliği: Cz-HWHIa)
 
-* **BTK Akademi:** Yapay Zeka Zirvesi 2024, Yapay Zekaya Giriş, Büyük Veriye Giriş, İşletim Sistemlerine Giriş.
-* **OSD:** Otomotiv Yaz Kampı.
-* **Patika.dev:** Başlangıç Seviye Java ile Backend Web Development Patikası.
+---
+
+### 📌 Öne Çıkan Projeler
+* **Synapse – Kişiselleştirilmiş Öğrenme Ekosistemi** (Takım Projesi, Ağustos 2025): PDF içeriklerini yapay zekâ destekli interaktif öğrenme materyallerine dönüştüren platform.
+    * **Rolüm:** Frontend geliştirme (React – Vite, TypeScript, CSS, Zustand, TanStack Query, React Router, Axios, Lucide-React).
+    * **Teknolojiler:** LangChain & LangGraph, Google Gemini API, Google Cloud Speech-to-Text, ChromaDB, SQLite, SQLAlchemy, FastAPI, JWT.
+* **Gerçek Zamanlı Mesajlaşma Uygulaması** (Aralık 2024): React, Node.js, Express, Socket.IO ve MongoDB tabanlı, anlık mesaj gönderme/alma, kullanıcı çevrim içi durum takibi özellikli responsive web uygulaması.
+    * **Rolüm:** Frontend arayüzünü React + styled-components ile tasarladım; Socket.IO entegrasyonu sağladım.
+* **Açık Hava Etkinlikleri Rezervasyon Sistemi** (Ocak 2025): Kamp ve doğa yürüyüşü gibi etkinlikler için web tabanlı rezervasyon sistemi. Kullanıcı hesap yönetimi ve etkinlik listeleme modülleri içeriyor.
+* **Çok Platformlu Yardımcı Uygulama** (.NET MAUI, Haziran 2025): Döviz kurları, haber başlıkları, hava durumu tahminleri ve yapılacaklar listesi gibi farklı bilgileri mobil/masaüstü uyumlu bir uygulamada topladım. Üçüncü parti API entegrasyonlarıyla kullanıcı dostu arayüz geliştirdim.
+* **.NET MAUI Çok Modlu Hesap Makinesi** (2024): Standart ve bilimsel modları içeren, Shell navigasyon yapısına sahip çok modlu bir mobil uygulama.
+* **Türkçe Haber Sınıflandırma (NLP):** TF‑IDF ve BoW teknikleriyle çok sınıflı haber sınıflandırma modeli, veri dengesizliği analizi.
 
 ---
 
 ### 📫 İletişim
-
-* **E-posta:** yarencelikk2020@gmail.com
-* **LinkedIn:** [linkedin.com/in/emine-yaren-celik](https://www.linkedin.com/in/emine-yaren-celik-815802296/)
-* **GitHub:** [github.com/yarencelikk](https://github.com/yarencelikk)
+* **E‑posta:** yarencelikk2020@gmail.com
+* **LinkedIn:** linkedin.com/in/emine-yaren-celik
+* **GitHub:** github.com/yarencelikk
 
 ---
 
-> "Sürekli küçük adımlar, büyük sonuçlar doğurur."
+### 📊 İstatistikler
+
+![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=yarencelikk&show_icons=true&theme=onedark&hide_border=true&locale=tr)
+
+![GitHub Katkı Çizgim](https://github-readme-streak-stats.herokuapp.com/?user=yarencelikk&theme=onedark&hide_border=true&locale=tr)
+
+![GitHub Kupalarım](https://github-profile-trophy.vercel.app/?username=yarencelikk&theme=onedark&no-frame=true&no-bg=true)
+
+---
+
+### 📝 Notlar
+* Bu README, profil deposu olduğu için (repo adı = kullanıcı adım) doğrudan GitHub profilimin üst kısmında görünür.
+* Proje bağlantıları ve pinned repo'larımı düzenli olarak güncelliyorum.
+
+---
+
+### 🗣️ Sevdiğim Bir Cümle
+"Sürekli küçük adımlar, büyük sonuçlar doğurur."
