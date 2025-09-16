@@ -58,7 +58,7 @@ Anlık mesajlaşma, kullanıcı durum takibi ve gerçek zamanlı bildirim özell
 **🔹 Çok Platformlu Yardımcı Uygulama (.NET MAUI)**  
 Kredi hesaplama, vücut kitle indeksi, döviz kurları, haberler ve hava durumu gibi işlevleri tek çatı altında toplayan mobil/masaüstü uygulama.  
 **Teknolojiler:** .NET MAUI, C#, REST API  
-📎 [Projeye Git](https://github.com/yarencelikk/GorselProgramlama_-_Yeni)
+📎 [Projeye Git](https://github.com/yarencelikk/GorselProgramlama-_Yeni)
 
 ---
 
