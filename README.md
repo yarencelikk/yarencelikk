@@ -1,4 +1,4 @@
-### Merhaba! Ben Emine Yaren Çelik 👋
+### Merhaba! Ben Emine Yaren Çelik 
 
 Bartın Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim.  
 Yapay zeka, gerçek zamanlı web uygulamaları ve .NET MAUI ile mobil geliştirme alanlarında projeler üretiyorum.  
