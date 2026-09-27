@@ -1,93 +1,99 @@
-### Merhaba! Ben Emine Yaren Çelik 
+<div align="center">
 
-Bartın Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim.  
-Yapay zeka, gerçek zamanlı web uygulamaları ve .NET MAUI ile mobil geliştirme alanlarında projeler üretiyorum.  
+<img src="./assets/header.svg" alt="Emine Yaren Çelik — Backend Developer" width="100%"/>
 
-Yazılım geliştirmede **sadelik, sürdürülebilirlik ve kapsamlı dokümantasyon** benim için temel ilkelerdir.  
-Bu profil, geliştirdiğim projeleri, teknolojik yetkinliklerimi ve iletişim kanallarımı bir araya getirmektedir. 🚀
+<a href="https://www.linkedin.com/in/emine-yaren-celik-815802296/"><img src="https://img.shields.io/badge/LinkedIn-0a0714?style=for-the-badge&logo=linkedin&logoColor=ff5fd2" alt="LinkedIn"/></a>
+<a href="mailto:yarencelikk2020@gmail.com"><img src="https://img.shields.io/badge/E--posta-0a0714?style=for-the-badge&logo=gmail&logoColor=7cf7ff" alt="E-posta"/></a>
+<img src="https://img.shields.io/badge/Samsun_·_Ankara-0a0714?style=for-the-badge&logo=googlemaps&logoColor=b98cff" alt="Konum"/>
+<img src="https://komarev.com/ghpvc/?username=yarencelikk&style=for-the-badge&color=ff5fd2&label=ZİYARETÇİ" alt="Profil görüntülenme"/>
 
----
+</div>
 
-### 🔧 Uzmanlık Alanları & Teknolojiler
+<img src="./assets/divider.svg" width="100%"/>
 
-**💻 Programlama Dilleri**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+### `> cat hakkimda.md`
 
-**🌐 Web Framework'leri & Kütüphaneleri**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+Backend odaklı web uygulamaları ve veritabanı yapıları geliştiren bir **Bilgisayar Mühendisiyim** (Bartın Üniversitesi, 2026).
+Ağırlıklı olarak JavaScript ekosisteminde çalışıyorum: **Node.js, Express.js ve PostgreSQL** ile RESTful API servisleri, veritabanı modelleri ve veri akışları kuruyor, **React** ile arayüz geliştiriyorum.
+**JWT ile kimlik doğrulama, rol bazlı yetkilendirme ve ödeme altyapısı entegrasyonu** konularında staj ve proje deneyimim var; **FastAPI (Python)** ve **C#** ile de projeler geliştirdim.
+Full-stack süreçlerde çalıştığım için backend kararlarını uygulamanın bütününü düşünerek alıyorum ve temiz, okunabilir kod yazmaya özen gösteriyorum.
 
-**🗄️ Veritabanları**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+```js
+const yaren = {
+  rol:          "Backend Developer",
+  odak:         ["REST API", "Veritabanı", "Kimlik Doğrulama & Ödeme", "Gerçek Zamanlı"],
+  hergun:       ["JavaScript", "Node.js", "Express", "PostgreSQL", "React"],
+  ayrica:       ["FastAPI", "C# / .NET MAUI", "MediaPipe"],
+  diller:       { turkce: "anadil", ingilizce: "B2" },
+  durum:        "iş fırsatlarına açık 🟢",
+};
+```
 
+<table><tr>
+<td width="50%"><img src="./assets/signals.svg" width="100%" alt="Yetkinlik radarı"/></td>
+<td width="50%"><img src="./assets/timeline.svg" width="100%" alt="Zaman çizelgesi"/></td>
+</tr></table>
 
-**☁️ Bulut & API**  
-![Google Gemini API](https://img.shields.io/badge/Google_Gemini-1F1F1F?style=for-the-badge&logo=google-gemini&logoColor=white)
+<img src="./assets/divider.svg" width="100%"/>
 
-**📱 Mobil**  
-![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+### `> ls ~/projeler`
 
----
+<table><tr>
+<td width="50%"><a href="https://github.com/yarencelikk?tab=repositories&q=pati"><img src="./assets/card-pati-market.svg" width="100%" alt="Pati Market"/></a></td>
+<td width="50%"><a href="https://github.com/yarencelikk?tab=repositories&q=physio"><img src="./assets/card-physio-ai.svg" width="100%" alt="PhysioAI"/></a></td>
+</tr><tr>
+<td width="50%"><a href="https://github.com/yarencelikk?tab=repositories&q=synapse"><img src="./assets/card-synapse.svg" width="100%" alt="Synapse"/></a></td>
+<td width="50%"><a href="https://github.com/yarencelikk?tab=repositories&q=maui"><img src="./assets/card-maui-assistant.svg" width="100%" alt=".NET MAUI Yardımcı Uygulama"/></a></td>
+</tr></table>
 
-### 📌 Öne Çıkan Projeler
+### `> cat deneyim.log`
 
-**🔹 Synapse – Kişiselleştirilmiş Öğrenme Ekosistemi**  
-PDF içeriklerini yapay zekâ destekli interaktif öğrenme materyallerine dönüştüren platform.  
-**Rolüm:** Frontend geliştirme (React – Vite, TypeScript)  
-**Teknolojiler:** LangChain, Google Gemini API, FastAPI, ChromaDB  
-📎 [Projeye Git](https://github.com/yarencelikk/Synapse-Hackathon2025)
+**Uzun Dönem Stajyer — Atakum Belediyesi** · Samsun · `02.2026 – 05.2026`
+- Belediyenin web sitesi altyapısının yenilenmesi projesinde **Node.js, Express.js ve PostgreSQL** ile full-stack geliştirmeye katkı sağladım; **React** ile dinamik arayüzler geliştirdim.
+- **RESTful API uç noktaları ve CRUD işlemleri** geliştirdim; **JWT tabanlı kimlik doğrulama** süreçlerinde görev aldım.
+- **Sequelize ORM** ile veritabanı modellemesi yaptım, **StarUML** ile ER diyagramları hazırladım, seeder yapılandırmalarını oluşturdum.
+- **Postman** ile API testleri yaptım; hata tespiti, sistem doğrulama ve içerik düzenleme çalışmalarına katıldım.
 
----
+<img src="./assets/divider.svg" width="100%"/>
 
-**🔹 Gerçek Zamanlı Mesajlaşma Uygulaması**  
-Anlık mesajlaşma, kullanıcı durum takibi ve gerçek zamanlı bildirim özellikli web uygulaması.  
-**Teknolojiler:** React, Node.js, Express, Socket.IO, MongoDB  
-📎 [Projeye Git](https://github.com/yarencelikk/ChatApp)
+### `> which --teknolojiler`
 
----
+<p align="center">
+  <b>Backend & veri</b><br/>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres,mysql,mongodb,firebase,python,fastapi&theme=dark" alt="Backend"/><br/><br/>
+  <b>Frontend</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,vite,materialui,html,css&theme=dark" alt="Frontend"/><br/><br/>
+  <b>Diğer & araçlar</b><br/>
+  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,opencv,tensorflow,git,github,postman,vscode,idea&theme=dark" alt="Araçlar"/>
+</p>
 
-**🔹 Çok Platformlu Yardımcı Uygulama (.NET MAUI)**  
-Döviz kurları, haberler, hava durumu ve Firebase tabanlı yapılacaklar listesini tek çatı altında toplayan mobil/masaüstü uygulama.  
-**Teknolojiler:** .NET MAUI, C#, XAML, REST API, Firebase Realtime Database  
-📎 [Projeye Git](https://github.com/yarencelikk/MauiMultiToolApp)
+<img src="./assets/divider.svg" width="100%"/>
 
----
+### `> git log --istatistik`
 
-**🔹 Türkçe Haber Sınıflandırma (NLP)**  
-TF-IDF ve BoW teknikleriyle geliştirilmiş, çok sınıflı haber sınıflandırma modeli.  
-**Teknolojiler:** Python, Scikit-learn, NLTK  
-📎 [Projeye Git](https://github.com/yarencelikk/TurkceHaberlerinSiniflandirilmasi)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yarencelikk&show_icons=true&hide_border=true&locale=tr&bg_color=0a0714&title_color=ff5fd2&icon_color=7cf7ff&text_color=f4f1ff&ring_color=b98cff" alt="GitHub istatistikleri"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarencelikk&layout=compact&hide_border=true&locale=tr&bg_color=0a0714&title_color=ff5fd2&text_color=f4f1ff&langs_count=6" alt="En çok kullanılan diller"/>
+</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yarencelikk&bg_color=0a0714&color=f4f1ff&line=ff5fd2&point=7cf7ff&area=true&area_color=b98cff&hide_border=true&custom_title=Katkı%20Grafiği" alt="Katkı grafiği"/>
+</p>
 
----
+<details>
+<summary><b>🎓 Eğitim & sertifikalar</b></summary>
 
-### 🎓 Sertifikalar
+**Bilgisayar Mühendisliği (Lisans)** — Bartın Üniversitesi · `2022 – 2026` · GNO **3,35 / 4,00**
+<sub>Veri Yapıları ve Algoritmalar · Veritabanı Yönetim Sistemleri · Yazılım Mühendisliği · Görsel Programlama · Bilgisayar Ağları · İşletim Sistemleri · Veri Madenciliği</sub>
 
-- **BTK Akademi:** Yapay Zeka Zirvesi 2024, Yapay Zekaya Giriş, Büyük Veriye Giriş, İşletim Sistemlerine Giriş  
-- **OSD:** Otomotiv Yaz Kampı  
-- **Patika.dev:** Başlangıç Seviye Java ile Backend Web Development  
+- Başlangıç Seviye Java ile Backend Web Development Patikası — *Patika.dev*
+- Akbank Derin Öğrenmeye Giriş Bootcamp — *AI Business School*
+- Python 202 Bootcamp — *AI Business School*
+- Python ile Veri Analizi Atölyesi
+- Yapay Zekaya Giriş · Büyük Veriye Giriş · Yapay Zeka Zirvesi 2024 — *BTK Akademi*
 
----
+</details>
 
-### 📫 İletişim
-
-📧 **E-posta:** yarencelikk2020@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/emine-yaren-celik](https://www.linkedin.com/in/emine-yaren-celik-815802296/)  
-
----
-
-### 📊 İstatistikler
-
-![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=yarencelikk&show_icons=true&theme=tokyonight&hide_border=true&locale=tr)  
-![GitHub Katkı Çizgim](https://github-readme-streak-stats.herokuapp.com/?user=yarencelikk&theme=tokyonight&hide_border=true&locale=tr)  
-![GitHub Kupalarım](https://github-profile-trophy.vercel.app/?username=yarencelikk&theme=tokyonight&no-frame=true&no-bg=true)  
-
----
-
-> ✨ *“Sürekli küçük adımlar, büyük sonuçlar doğurur.”* ✨
+<div align="center">
+<br/>
+<sub><code>// uğradığın için teşekkürler — birlikte bir şeyler üretelim ✨</code></sub>
+</div>
