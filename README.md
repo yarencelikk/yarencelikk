@@ -48,7 +48,7 @@ Full-stack süreçlerde çalıştığım için backend kararlarını uygulamanı
   <b>Frontend</b><br/>
   <img src="https://skillicons.dev/icons?i=react,vite,materialui,html,css&theme=dark" alt="Frontend"/><br/><br/>
   <b>Diğer Diller & Araçlar</b><br/>
-  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,opencv,tensorflow,git,github,postman,vscode,idea&theme=dark" alt="Araçlar"/>
+  <img src="https://skillicons.dev/icons?i=java,opencv,tensorflow,git,github,postman,vscode,idea&theme=dark" alt="Araçlar"/>
 </p>
 
 ## Eğitim
