@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="330" viewBox="0 0 880 330">
+<style>
+  .mono{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace}
+  .p{fill:#ff5fd2}.c{fill:#7cf7ff}.g{fill:#8b8fb8}.w{fill:#f4f1ff}.v{fill:#b98cff}
+  .t{font-size:17px}
+  .big{font-size:42px;font-weight:700;fill:#f4f1ff}
+  .glow{filter:url(#glow)}
+  .line{opacity:0}
+  .l1{animation:show .01s linear .3s forwards}
+  .l2{animation:show .01s linear 1.5s forwards}
+  .l3{animation:show .01s linear 2.2s forwards}
+  .l4{animation:show .01s linear 3.4s forwards}
+  .l5{animation:show .01s linear 4.1s forwards}
+  .l6{animation:show .01s linear 5.3s forwards}
+  .type1{clip-path:inset(0 100% 0 0);animation:type 1s steps(22) .4s forwards}
+  .type2{clip-path:inset(0 100% 0 0);animation:type .9s steps(16) 2.3s forwards}
+  .type3{clip-path:inset(0 100% 0 0);animation:type .9s steps(16) 4.2s forwards}
+  @keyframes show{to{opacity:1}}
+  @keyframes type{to{clip-path:inset(0 0 0 0)}}
+  .cur{animation:blink 1s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}
+  .scan{animation:scan 6s linear infinite}
+  @keyframes scan{from{transform:translateY(-40px)}to{transform:translateY(340px)}}
+  .flick{animation:flick 4s infinite}
+  @keyframes flick{0%,100%{opacity:1}92%{opacity:1}93%{opacity:.55}94%{opacity:1}96%{opacity:.7}97%{opacity:1}}
+  .dot{animation:pulse 2s ease-in-out infinite}
+  @keyframes pulse{50%{opacity:.35}}
+</style>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#140a24"/><stop offset="1" stop-color="#0a0714"/></linearGradient>
+  <linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#ff5fd2"/><stop offset=".5" stop-color="#b98cff"/><stop offset="1" stop-color="#7cf7ff"/></linearGradient>
+  <linearGradient id="sc" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff5fd2" stop-opacity="0"/><stop offset="1" stop-color="#ff5fd2" stop-opacity=".09"/></linearGradient>
+  <filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#ff5fd2" stroke-opacity=".06"/></pattern>
+  <clipPath id="win"><rect x="10" y="10" width="860" height="310" rx="14"/></clipPath>
+</defs>
+<rect x="10" y="10" width="860" height="310" rx="14" fill="url(#bg)"/>
+<g clip-path="url(#win)">
+  <rect x="10" y="10" width="860" height="310" fill="url(#grid)"/>
+  <rect class="scan" x="10" y="0" width="860" height="40" fill="url(#sc)"/>
+</g>
+<rect x="10" y="10" width="860" height="310" rx="14" fill="none" stroke="url(#edge)" stroke-width="1.5" class="glow"/>
+<!-- title bar -->
+<circle cx="36" cy="34" r="6" fill="#ff5f87"/><circle cx="56" cy="34" r="6" fill="#ffc85f"/><circle cx="76" cy="34" r="6" fill="#5fffb0"/>
+<text x="440" y="39" text-anchor="middle" class="mono g" font-size="13">yaren@portfolio: ~</text>
+<line x1="10" y1="54" x2="870" y2="54" stroke="#ff5fd2" stroke-opacity=".25"/>
+
+<g class="mono t">
+  <g class="line l1"><text x="36" y="92"><tspan class="p">➜</tspan> <tspan class="c">~</tspan> <tspan class="w" >whoami</tspan></text></g>
+  <g class="line l2 flick"><text x="36" y="146" class="big mono glow">Emine Yaren Çelik</text></g>
+  <g class="line l3"><text x="36" y="186"><tspan class="p">➜</tspan> <tspan class="c">~</tspan> <tspan class="w">cat role.txt</tspan></text></g>
+  <g class="line l4"><text x="36" y="214" class="v">Backend Developer · JavaScript / Node.js · Bilgisayar Mühendisi</text></g>
+  <g class="line l5"><text x="36" y="252"><tspan class="p">➜</tspan> <tspan class="c">~</tspan> <tspan class="w">./status --now</tspan></text></g>
+  <g class="line l6"><text x="36" y="280"><tspan class="dot" fill="#5fffb0">●</tspan><tspan class="w"> işe hazır</tspan><tspan class="g">  ·  API, gerçek zamanlı uygulama ve yapay zekâ</tspan></text>
+    <rect class="cur" x="36" y="292" width="10" height="3" fill="#ff5fd2"/></g>
+</g>
+</svg>
