@@ -33,8 +33,8 @@ Full-stack süreçlerde çalıştığım için backend kararlarını uygulamanı
 ## Öne Çıkan Projeler
 
 <table><tr>
-<td width="50%"><a href="https://github.com/yarencelikk?tab=repositories"><img src="./assets/card-pati-market.svg" width="100%" alt="Pati Market"/></a></td>
-<td width="50%"><a href="https://github.com/yarencelikk?tab=repositories"><img src="./assets/card-physio-ai.svg" width="100%" alt="PhysioAI"/></a></td>
+<td width="50%"><a href="https://github.com/yarencelikk/Petshop_Project"><img src="./assets/card-pati-market.svg" width="100%" alt="Pati Market"/></a></td>
+<td width="50%"><img src="./assets/card-physio-ai.svg" width="100%" alt="PhysioAI"/></td>
 </tr><tr>
 <td width="50%"><a href="https://github.com/yarencelikk/Synapse-Hackathon2025"><img src="./assets/card-synapse.svg" width="100%" alt="Synapse"/></a></td>
 <td width="50%"><a href="https://github.com/yarencelikk/MauiMultiToolApp"><img src="./assets/card-maui-assistant.svg" width="100%" alt=".NET MAUI Yardımcı Uygulama"/></a></td>
