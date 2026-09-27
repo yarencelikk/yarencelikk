@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-live.svg" alt="Emine Yaren Çelik — Backend Developer" width="100%"/>
+<img src="./assets/hero.svg" alt="Emine Yaren Çelik — Backend Developer" width="100%"/>
 
 <a href="https://www.linkedin.com/in/emine-yaren-celik-815802296/"><img src="https://img.shields.io/badge/LinkedIn-0a0714?style=for-the-badge&logo=linkedin&logoColor=ff5fd2" alt="LinkedIn"/></a>
 <a href="mailto:yarencelikk2020@gmail.com"><img src="https://img.shields.io/badge/E--posta-0a0714?style=for-the-badge&logo=gmail&logoColor=7cf7ff" alt="E-posta"/></a>
